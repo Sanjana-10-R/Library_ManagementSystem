@@ -91,9 +91,9 @@ LocalDate (Java Time API)
 
 <img width="743" height="808" alt="Screenshot 2026-03-05 221410" src="https://github.com/user-attachments/assets/87372c01-8be0-42ef-a0b3-6b75f714ca6b" />
 
-
-
-
 Top Borrowers
 
 Displays members sorted by total number of books borrowed (descending).
+
+<img width="743" height="808" alt="Screenshot 2026-03-05 221410" src="https://github.com/user-attachments/assets/87372c01-8be0-42ef-a0b3-6b75f714ca6b" />
+
